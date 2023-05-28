@@ -321,8 +321,6 @@ void MainWindow::on_actionOpenCloud_triggered()
                 }
             }
 
-//            std::cout << fileName.toStdString() << std::endl;
-
             std::string content;
             long long size;
 
